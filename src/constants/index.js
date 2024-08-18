@@ -127,10 +127,6 @@ const technologies = [
     icon: nextjs,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "Flutter",
     icon: flutter,
   },
