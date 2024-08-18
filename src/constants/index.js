@@ -226,14 +226,14 @@ const testimonials = [
     company: "SMK Assalaam Bandung",
     image: pak_agung,
   },
-  {
-    testimonial:
-      "Sandy's enthusiasm and dedication to learning programming were evident throughout his time at SMK Assalaam Bandung. As his instructor, I was impressed by his ability to quickly grasp complex frontend concepts and apply them effectively. His growth and commitment to excellence were truly commendable.",
-    name: "Wildan Abdul Aziz",
-    designation: "Wakasek Hubin and Frontend Dev",
-    company: "SMK Assalaam Bandung",
-    image: pak_wildan,
-  },
+  // {
+  //   testimonial:
+  //     "Sandy's enthusiasm and dedication to learning programming were evident throughout his time at SMK Assalaam Bandung. As his instructor, I was impressed by his ability to quickly grasp complex frontend concepts and apply them effectively. His growth and commitment to excellence were truly commendable.",
+  //   name: "Wildan Abdul Aziz",
+  //   designation: "Wakasek Hubin and Frontend Dev",
+  //   company: "SMK Assalaam Bandung",
+  //   image: pak_wildan,
+  // },
 ];
 
 const projects = [
