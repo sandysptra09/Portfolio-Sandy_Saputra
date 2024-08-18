@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import vuejs from "./tech/vuejs.png";
 import flutter from "./tech/flutter.png";
 import dart from "./tech/dart.png";
+import nextjs from "./tech/nextjs.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -80,6 +81,7 @@ export {
   mongodb,
   nodejs,
   reactjs,
+  nextjs,
   redux,
   tailwind,
   typescript,
