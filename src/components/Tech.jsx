@@ -29,7 +29,7 @@ const Tech = () => {
       <div className="mt-20 flex flex-row flex-wrap justify-center gap-10">
         {technologies.map((technology) => (
           <motion.div
-            className="w-28 h-28 flex flex-col items-center justify-center bg-tertiary rounded-2xl shadow-lg p-4 hover:shadow-2xl"
+            className="w-32 h-32 flex flex-col items-center justify-center bg-tertiary rounded-2xl shadow-lg p-4 hover:shadow-2xl"
             key={technology.name}
             variants={cardVariant}
             initial="hidden"
