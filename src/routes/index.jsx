@@ -3,6 +3,8 @@ import { BrowserRouter } from 'react-router-dom';
 
 // import all components
 import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from '../components';
+import Award from '../components/Award';
+import Footer from '../components/Footer';
 
 export default function RoutesPath() {
     return (
@@ -14,6 +16,7 @@ export default function RoutesPath() {
                 </div>
                 <About />
                 <Experience />
+                <Award />
                 <Tech />
                 <Works />
                 <Feedbacks />
@@ -21,6 +24,7 @@ export default function RoutesPath() {
                     <Contact />
                     <StarsCanvas />
                 </div>
+                <Footer />
             </div>
         </BrowserRouter>
     )
