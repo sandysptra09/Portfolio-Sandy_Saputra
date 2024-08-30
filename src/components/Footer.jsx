@@ -19,7 +19,7 @@ const Footer = () => {
           <a href="https://github.com/sandysptra09" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition">
             <FaGithub size={24} />
           </a>
-          <a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition">
+          <a href="https://twitter.com/_snchie._" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition">
             <FaInstagram size={24} />
           </a>
         </div>
