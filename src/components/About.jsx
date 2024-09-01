@@ -61,6 +61,11 @@ const About = () => {
             have expertise in using animation tools such as Framer Motion to enhance user engagement and
             enrich visual experiences.
           </p>
+
+          <a href="/cv_ats_sandy_saputra.pdf" download="Sandy_Saputra_CV.pdf" className="mt-4 inline-block bg-tertiary px-8 py-3 rounded-lg outline-none w-fit text-white font-semibold shadow-md shadow-primary">
+            Download CV
+          </a>
+
         </motion.div>
 
         <motion.div
