@@ -6,6 +6,7 @@ import olympic from '../assets/certificate/olympic.jpg';
 import startup from '../assets/certificate/startup.jpg';
 import ujikom from '../assets/certificate/ujikom.jpg';
 import topujikom from '../assets/certificate/topujikom.jpg';
+import jurnal_ilmiah from '../assets/certificate/jurnal_ilmiah.jpg'
 
 const Award = () => {
   const awards = [
@@ -18,6 +19,11 @@ const Award = () => {
       title: "First Place in the Expertise Competency Exam of SMK Assalaam Bandung",
       year: "2024",
       image: topujikom,
+    },
+    {
+      title: "Certificate of Appreciation: Contribution to the Webinar “Writing Scientific Journals with Creativity“",
+      year: "2024",
+      image: jurnal_ilmiah,
     },
     {
       title: "Active Participation in the TechUpdate Online Vol. 51 x Roadshow Gerakan Nasional 1000 Startup Digital",
